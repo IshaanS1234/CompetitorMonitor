@@ -1,0 +1,23 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+dashboard/node_modules/
+dashboard/.next/
+dashboard/.vinext/
+dashboard/dist/
+dashboard/.wrangler/
+
+# Generated monitoring data (recreated when the monitor runs)
+snapshots/
+changes/
+events/
+reports/
+news/
+hacker_news/
+page_discovery_cache.json
+automation_logs/
+tests/legacy_snapshots/

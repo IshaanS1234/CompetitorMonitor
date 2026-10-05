@@ -1,0 +1,4 @@
+beautifulsoup4==4.15.0
+ollama==0.6.2
+pydantic==2.13.5
+requests==2.34.2

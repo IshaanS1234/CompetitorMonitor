@@ -1,0 +1,274 @@
+{
+  "generated_at": "2026-10-04T15:02:30-07:00",
+  "overview": {
+    "company_count": 2,
+    "page_count": 14,
+    "change_count": 7,
+    "news_count": 1,
+    "hacker_news_count": 4,
+    "latest_status": "No changes"
+  },
+  "companies": [
+    {
+      "name": "Linear",
+      "domain": "linear.app",
+      "pages": [
+        {
+          "name": "About",
+          "snapshot_count": 10,
+          "last_checked": "2026-10-04T15:00:07-07:00"
+        },
+        {
+          "name": "Careers",
+          "snapshot_count": 10,
+          "last_checked": "2026-10-04T15:00:07-07:00"
+        },
+        {
+          "name": "Changelog",
+          "snapshot_count": 10,
+          "last_checked": "2026-10-04T15:00:06-07:00"
+        },
+        {
+          "name": "Customers",
+          "snapshot_count": 10,
+          "last_checked": "2026-10-04T15:00:06-07:00"
+        },
+        {
+          "name": "Homepage",
+          "snapshot_count": 10,
+          "last_checked": "2026-10-04T15:00:06-07:00"
+        },
+        {
+          "name": "Pricing",
+          "snapshot_count": 10,
+          "last_checked": "2026-10-04T15:00:06-07:00"
+        }
+      ]
+    },
+    {
+      "name": "Shortcut",
+      "domain": "shortcut.com",
+      "pages": [
+        {
+          "name": "About",
+          "snapshot_count": 10,
+          "last_checked": "2026-10-04T15:00:09-07:00"
+        },
+        {
+          "name": "Blog",
+          "snapshot_count": 10,
+          "last_checked": "2026-10-04T15:00:08-07:00"
+        },
+        {
+          "name": "Careers",
+          "snapshot_count": 10,
+          "last_checked": "2026-10-04T15:00:09-07:00"
+        },
+        {
+          "name": "Customer Stories",
+          "snapshot_count": 10,
+          "last_checked": "2026-10-04T15:00:08-07:00"
+        },
+        {
+          "name": "Homepage",
+          "snapshot_count": 10,
+          "last_checked": "2026-10-04T15:00:07-07:00"
+        },
+        {
+          "name": "Pricing",
+          "snapshot_count": 10,
+          "last_checked": "2026-10-04T15:00:07-07:00"
+        },
+        {
+          "name": "Product Development",
+          "snapshot_count": 10,
+          "last_checked": "2026-10-04T15:00:08-07:00"
+        },
+        {
+          "name": "Product Planning",
+          "snapshot_count": 10,
+          "last_checked": "2026-10-04T15:00:08-07:00"
+        }
+      ]
+    }
+  ],
+  "recent_runs": [
+    {
+      "run_at": "2026-10-04T15:00:05-07:00",
+      "status": "No changes",
+      "change_count": 0,
+      "report_file": "reports/report_2026-10-04_15-00-05.txt"
+    },
+    {
+      "run_at": "2026-10-03T15:02:45-07:00",
+      "status": "No changes",
+      "change_count": 0,
+      "report_file": "reports/report_2026-10-03_15-02-45.txt"
+    },
+    {
+      "run_at": "2026-10-02T15:01:33-07:00",
+      "status": "No changes",
+      "change_count": 0,
+      "report_file": "reports/report_2026-10-02_15-01-33.txt"
+    },
+    {
+      "run_at": "2026-10-01T15:02:30-07:00",
+      "status": "No changes",
+      "change_count": 0,
+      "report_file": "reports/report_2026-10-01_15-02-30.txt"
+    },
+    {
+      "run_at": "2026-09-30T15:03:19-07:00",
+      "status": "No changes",
+      "change_count": 0,
+      "report_file": "reports/report_2026-09-30_15-03-19.txt"
+    }
+  ],
+  "recent_news": [
+    {
+      "company": "Linear",
+      "title": "Linear Review 2026: App, AI, Login, Company & FAQs",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBndVdYUFF2cnFhbXYzTHp5bWg2d3F4RWwwLUpDSi1CcUxQTkpFREJZVG0xTzJYUmRjeVotOU5IQlB2VlZjcEtPTVVIU0k1czdEVlR4eGdKUDFmRU9tblotSjYzaUlHT19DQWNDeGFhUQ?oc=5",
+      "source": "nubiapage.com",
+      "published_at": "2026-09-15T08:03:00+00:00",
+      "provider": "Google News RSS",
+      "discovered_at": "2026-09-18T15:22:57-07:00",
+      "summary": "The article appears to be a review of the Linear platform, covering its app, AI features, login process, company overview, and frequently asked questions. It is likely intended as a general informational piece or guide for users of the platform.",
+      "category": "Product",
+      "importance": "Medium",
+      "why_it_matters": "A review of this nature could signal growing user interest or awareness of Linear, which may impact its market position. Startups monitoring Linear should pay attention to how the platform is being perceived in terms of usability, AI integration, and user experience.",
+      "confidence": "High"
+    }
+  ],
+  "recent_hacker_news": [
+    {
+      "company": "Linear",
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "article_url": "https://linear.app/now/ci-bottleneck-reworked",
+      "discussion_url": "https://news.ycombinator.com/item?id=49792067",
+      "author": "julian_digital",
+      "points": 58,
+      "comment_count": 45,
+      "published_at": "2026-09-21T19:23:33+00:00",
+      "discovered_at": "2026-09-21T14:24:21-07:00",
+      "summary": "A Hacker News submission links to Linear's article about reworking their CI system to address performance bottlenecks caused by AI coding.",
+      "category": "Engineering",
+      "importance": "Medium",
+      "why_it_matters": "Startups tracking Linear should care as this indicates ongoing investment in CI/CD infrastructure to support evolving development practices, potentially impacting development speed and integration efficiency.",
+      "confidence": "Medium"
+    },
+    {
+      "company": "Linear",
+      "title": "Rebuilding Linear's delta sync read path",
+      "article_url": "https://linear.app/now/rebuilding-delta-sync-read-path",
+      "discussion_url": "https://news.ycombinator.com/item?id=49511538",
+      "author": "FinnLobsien",
+      "points": 2,
+      "comment_count": 0,
+      "published_at": "2026-08-31T16:19:54+00:00",
+      "discovered_at": "2026-09-18T16:26:29-07:00",
+      "summary": "A Hacker News submission links to Linear's engineering work on improving their delta sync read path.",
+      "category": "Engineering",
+      "importance": "Medium",
+      "why_it_matters": "This indicates Linear is actively refining its data synchronization architecture, which could impact performance, reliability, or scalability for users.",
+      "confidence": "Medium"
+    },
+    {
+      "company": "Linear",
+      "title": "Styling Linear for the Future with StyleX",
+      "article_url": "https://linear.app/now/styling-linear-for-the-future-stylex",
+      "discussion_url": "https://news.ycombinator.com/item?id=49464642",
+      "author": "jorde",
+      "points": 3,
+      "comment_count": 0,
+      "published_at": "2026-08-27T13:30:26+00:00",
+      "discovered_at": "2026-09-18T16:26:29-07:00",
+      "summary": "A Hacker News submission links to Linear's blog post about their new styling system called StyleX.",
+      "category": "Engineering",
+      "importance": "Medium",
+      "why_it_matters": "Linear is introducing a new styling system, which could impact their UI/UX development and differentiation in the project management toolspace.",
+      "confidence": "Medium"
+    },
+    {
+      "company": "Linear",
+      "title": "Sharing Linear's growth with the people building it",
+      "article_url": "https://linear.app/now/sharing-growth-with-the-people-building-linear",
+      "discussion_url": "https://news.ycombinator.com/item?id=49448340",
+      "author": "946789987649",
+      "points": 4,
+      "comment_count": 1,
+      "published_at": "2026-08-26T13:00:18+00:00",
+      "discovered_at": "2026-09-18T16:26:29-07:00",
+      "summary": "A Hacker News submission links to Linear's announcement about sharing its growth with the people building it.",
+      "category": "Engineering",
+      "importance": "Medium",
+      "why_it_matters": "This suggests Linear is communicating internal growth metrics or progress to its development team or contributors, which could indicate a focus on transparency or team engagement.",
+      "confidence": "Medium"
+    }
+  ],
+  "recent_changes": [
+    {
+      "company": "shortcut.com",
+      "page": "Pricing",
+      "detected_at": "2026-09-25T13:37:23-07:00",
+      "summary": "Shortcut.com updated its pricing page by removing the term 'Members' and replacing it with 'Observers' in the role descriptions. The new roles listed are 'Owners, Admins, Members, and Observers'.",
+      "importance": "Medium",
+      "category": "Pricing",
+      "why_it_matters": "This change suggests a shift in how Shortcut is categorizing user roles, potentially indicating a new access level or feature (e.g., 'Observers') that may affect pricing tiers or feature availability. Startups tracking Shortcut should monitor if this change correlates with new features, pricing adjustments, or changes in user segmentation."
+    },
+    {
+      "company": "linear.app",
+      "page": "Homepage",
+      "detected_at": "2026-09-25T13:37:22-07:00",
+      "summary": "Linear removed mentions of 'Team initiatives' and related content from its homepage, while adding new content about controls for its coding agent and coding sessions.",
+      "importance": "High",
+      "category": "Positioning",
+      "why_it_matters": "This change signals a strategic shift in Linear's product focus, moving from high-level strategic planning (initiatives) to more technical, developer-centric features (coding agent). Startups tracking Linear should pay attention to how this shift might affect their own product positioning and feature prioritization."
+    },
+    {
+      "company": "linear.app",
+      "page": "Changelog",
+      "detected_at": "2026-09-25T13:37:22-07:00",
+      "summary": "Linear.app introduced new controls for coding sessions, including adaptive routing, environment secrets, and open-weight model support. They also expanded team organization features like custom project labels, lead teams, and team loops triggers. Several bug fixes and improvements were also included.",
+      "importance": "High",
+      "category": "Product",
+      "why_it_matters": "These changes indicate Linear is enhancing its AI-powered coding capabilities and improving team workflow customization, which could impact startups looking to compete in the AI-assisted development space. The addition of open-weight models and team organization features suggests a focus on flexibility and scalability."
+    },
+    {
+      "company": "linear.app",
+      "page": "Careers",
+      "detected_at": "2026-09-25T13:37:22-07:00",
+      "summary": "The careers page for linear.app removed several job titles and navigation elements, including 'Solutions Engineer, Growth', 'North America', 'Learn more', and the arrow symbol '\u2192'.",
+      "importance": "Medium",
+      "category": "Other",
+      "why_it_matters": "The removal of specific job titles and navigation elements may indicate a shift in hiring focus or a reorganization of the careers page. Startups tracking this competitor may want to monitor if this is part of a broader change in hiring strategy or content presentation."
+    },
+    {
+      "company": "linear.app",
+      "page": "Pricing",
+      "detected_at": "2026-09-18T15:02:55-07:00",
+      "summary": "Linear removed 'Data warehouse sync' from its pricing page.",
+      "importance": "High",
+      "category": "Pricing",
+      "why_it_matters": "The removal of 'Data warehouse sync' suggests that Linear may have either discontinued the feature, rebranded it, or integrated it into another product tier. This could signal a shift in their product strategy or a simplification of their pricing model, which may impact how startups position their offerings in the competitive project management space."
+    },
+    {
+      "company": "linear.app",
+      "page": "Changelog",
+      "detected_at": "2026-09-14T13:21:16-07:00",
+      "summary": "Linear.app introduced new features related to Loops for product management and callout components, while also making several bug fixes and improvements across the platform.",
+      "importance": "High",
+      "category": "Product",
+      "why_it_matters": "The introduction of Loops for product management represents a significant enhancement to Linear's automation capabilities, allowing teams to automate coordination tasks and keep everyone informed. This could impact startups by increasing the value proposition of Linear for product management workflows. The addition of callout components also improves content organization and communication within Linear, which could be relevant for startups looking to streamline documentation and issue descriptions."
+    },
+    {
+      "company": "linear.app",
+      "page": "Homepage",
+      "detected_at": "2026-09-14T13:21:03-07:00",
+      "summary": "Linear removed mentions of mobile coding sessions and added content about 'loops' for product management, including enhanced automation capabilities and integration with Slack.",
+      "importance": "High",
+      "category": "Positioning",
+      "why_it_matters": "This change signals a shift in Linear's positioning from emphasizing mobile productivity to highlighting advanced automation features for product management teams. Startups tracking Linear should pay attention to how this might influence their own product positioning and feature prioritization, especially around automation and integration capabilities."
+    }
+  ]
+}
